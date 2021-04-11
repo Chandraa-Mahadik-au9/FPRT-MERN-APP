@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    max-width: 95vw;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.productSubBox {
+    margin: 0;
+}
+
+.productImg {
+    width: 200px;
+}
+
+.productCartImg {
+    width: 150px;
+}
+
+.productPlaceOrderImg {
+    width: 75px;
+}
+
+.orderPageOrderImg {
+    width: 100px;
+}
+
+.cart {
+    width: 1.5rem;
+}
+
+.profileButton {
+    border-radius: 0.5rem !important;  
+}
+
+.homeCarousel {
+    display: flex;
+    flex-direction: row;
+}
+
